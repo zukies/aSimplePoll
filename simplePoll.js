@@ -80,7 +80,3 @@ const bonusObject = {
   bonus2: [1, 5, 3, 9, 6, 1],
 };
 
-// This generates [0, 0, 0, 0]. More in the next section 😃
-//   answers: new Array(4).fill(0),
-
-// console.log(this.registerNewAnswer);
