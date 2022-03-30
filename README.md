@@ -1,6 +1,6 @@
 Coding Challenge #1
 
-Let's build a simple poll app!
+This simple poll app allows users to share which is their favorite programming language!
 
 A poll has a question, an array of options from which people can choose, and an array with the number of replies for each option. This data is stored in the starter object below.
 
